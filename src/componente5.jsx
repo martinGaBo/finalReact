@@ -39,9 +39,9 @@ function componente5  (props)  {
     };
   
     return (
-      <div id="seccion3" style={{ backgroundColor: '#e5f4dc' }} className="row seccion">
+      <div id="contexto" style={{ backgroundColor: '#e5f4dc' }} className="row seccion">
         <a href="#nav">
-          <h1 id="contexto" className="titulo">
+          <h1 className="titulo">
             {props.titulo}
           </h1>
         </a>

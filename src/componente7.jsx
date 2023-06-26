@@ -5,9 +5,9 @@ import React from 'react';
 function componente7(props) {
     return (
         <>
-            <div id="seccion5" style={{ backgroundColor: '#afe33537' }} className="row seccion">
+            <div id="producto" style={{ backgroundColor: '#afe33537' }} className="row seccion">
                 <a href="#nav">
-                    <h1 id="producto" className="titulo">
+                    <h1 className="titulo">
                         PRODUCTO
                     </h1>
                 </a>

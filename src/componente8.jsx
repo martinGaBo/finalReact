@@ -33,21 +33,27 @@ function componente8(props) {
     <div className="row">
       <div className="col"></div>
       <div className="col d-flex justify-content-center">
+        <a target='_blank' href="https://www.youtube.com/channel/UCOC5NZlUT5ED92g5cZclPFg">
         <button className="iconos">
           <img style={{width: "60px"}} src={props.logo} alt=""/>
         </button>
+        </a>
       </div>
 
       <div className="col d-flex justify-content-center">
-        <button className="iconos">
+        <a target='_blank' href="https://instagram.com/proyecto_habited?igshid=MzRlODBiNWFlZA==">
+          <button className="iconos">
           <img style={{width: "60px"}} src={props.logo2} alt=""/>
         </button>
+        </a>
       </div>
 
       <div className="col d-flex justify-content-center">
-        <button className="iconos">
+        <a target='_blank' href="https://wa.me/573104613467">
+          <button className="iconos">
           <img style={{width: "60px"}} src={props.logo3} alt=""/>
         </button>
+        </a>
       </div>
       <div className="col"></div>
     </div>
