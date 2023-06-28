@@ -134,6 +134,21 @@ a{
   color: #000000;
   background-color: #b8feb8;
 }
+.video{
+  display: flex;
+  justify-content: center;
+    flex-direction: column;
+}
+#playVideo{
+  border: none;
+  margin: 8px auto 16px auto;
+  padding: 10px 0 10px 0;
+  width: 60%;
+  font-size: 20px;
+  border-radius: 4px;
+  background-color: #00b78c;
+  color: white;
+}
 
 .juego{
   margin: 60px 0 0 10px;
@@ -149,8 +164,8 @@ a{
 #jugar{
   border: none;
   margin: 8px auto 16px auto;
-  padding: 10px 0 10px 0;
-  width: 80%;
+  padding: 10px 20px 10px 20px;
+  width: 100%;
   font-size: 20px;
   border-radius: 4px;
   background-color: #00b78c;

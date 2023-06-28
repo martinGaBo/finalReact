@@ -22,7 +22,7 @@ function App() {
       <Componente4 titulo="CORPORATIVO" />
       <Componente5 titulo="CONTEXTO INTERACTIVO" />
       <Componente6 persona="../public/img/martin.png" />
-      <Componente7 juego="./img/juego.png" juego2="./img/juego2.png" juego3="./img/juego3.png" juego4="./img/juego4.png" />
+      <Componente7 teaser="./img/teaser_Habited.mp4" juego="./img/juego.png" juego2="./img/juego2.png" juego3="./img/juego3.png" juego4="./img/juego4.png" />
       <Componente8 logo="./img/youtube.png" logo2="./img/instagram.png" logo3="./img/whatsapp.png" />
 
 
