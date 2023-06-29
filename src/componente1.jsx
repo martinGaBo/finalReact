@@ -37,6 +37,9 @@ function componente1 (props) {
                                                 <li className="nav-item">
                                                     <a className="nav-link" href="#producto">PRODUCTO</a>
                                                 </li>
+                                                <li className="nav-item">
+                                                    <a target='_blank' href="https://martingabo.itch.io/deflora" className="nav-link">2811</a>
+                                                </li>
                                             </ul>
                                         </div>
                                     </div>

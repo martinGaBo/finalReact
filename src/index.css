@@ -10,7 +10,7 @@ text-decoration: none;
 
 nav ul li{
   border-radius: 8px;
-  margin: 0px 4px 0px 4px;
+  margin: 0px 2px 0px 2px;
   padding: 5px 20px 5px 20px;
 }
 
@@ -21,7 +21,7 @@ nav ul li{
 nav ul li:hover{
   cursor: pointer;
   background-color: #00b78c;
-  transition: 0.1s;
+  transition: 0.01s;
 }
 
 #banner{

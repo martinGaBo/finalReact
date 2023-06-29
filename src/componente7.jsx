@@ -27,7 +27,7 @@ function Componente7(props) {
         <div className="row">
           <div className="col-lg-6 col-md-12">
             <div id="carouselExample" className="carousel slide">
-              <div className="carousel-inner">
+              <div className="carousel-inner pt-2">
                 <div className="carousel-item active">
                   <img src={props.juego} className="d-block w-100" alt="..." />
                 </div>
@@ -53,7 +53,7 @@ function Componente7(props) {
           </div>
 
           <div className="col-lg-6 col-md-12">
-            <div className='video'>
+            <div className='video pt-2'>
               <video ref={videoRef} src={props.teaser} controls className="video-player w-100" />
               <button id='playVideo' onClick={handlePlay}>
                 {isPlaying ? 'Pause' : 'Play'}
